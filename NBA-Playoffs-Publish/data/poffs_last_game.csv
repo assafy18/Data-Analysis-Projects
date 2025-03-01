@@ -1,0 +1,211 @@
+team_code,date,start_h_et,end_h_et,log,log_mins,opponent
+ATL,2021-06-02,19:30,21:52,0 days 02:22:00,142.0,New York Knicks
+ATL,2021-06-20,20:00,22:35,0 days 02:35:00,155.0,Philadelphia 76ers
+ATL,2021-07-03,20:30,22:53,0 days 02:23:00,143.0,Milwaukee Bucks
+ATL,2022-04-26,19:00,21:45,0 days 02:45:00,165.0,Miami Heat
+ATL,2023-04-27,20:30,22:54,0 days 02:24:00,144.0,Boston Celtics
+BOS,2018-04-28,20:00,22:22,0 days 02:22:00,142.0,Milwaukee Bucks
+BOS,2018-05-09,20:00,22:39,0 days 02:39:00,159.0,Philadelphia 76ers
+BOS,2018-05-27,20:30,22:48,0 days 02:18:00,138.0,Cleveland Cavaliers
+BOS,2019-04-21,13:00,15:25,0 days 02:25:00,145.0,Indiana Pacers
+BOS,2019-05-08,20:00,22:24,0 days 02:24:00,144.0,Milwaukee Bucks
+BOS,2020-08-23,13:00,15:37,0 days 02:37:00,157.0,Philadelphia 76ers
+BOS,2020-09-11,21:00,23:22,0 days 02:22:00,142.0,Toronto Raptors
+BOS,2020-09-27,19:30,21:49,0 days 02:19:00,139.0,Miami Heat
+BOS,2021-06-01,19:30,21:52,0 days 02:22:00,142.0,Brooklyn Nets
+BOS,2022-04-25,19:00,21:30,0 days 02:30:00,150.0,Brooklyn Nets
+BOS,2022-05-15,15:30,17:57,0 days 02:27:00,147.0,Milwaukee Bucks
+BOS,2022-05-29,20:30,23:00,0 days 02:30:00,150.0,Miami Heat
+BOS,2022-06-16,21:00,23:20,0 days 02:20:00,140.0,Golden State Warriors
+BOS,2023-04-27,20:30,22:54,0 days 02:24:00,144.0,Atlanta Hawks
+BOS,2023-05-14,15:30,17:53,0 days 02:23:00,143.0,Philadelphia 76ers
+BOS,2023-05-29,20:30,22:40,0 days 02:10:00,130.0,Miami Heat
+BOS,2024-05-01,19:30,21:41,0 days 02:11:00,131.0,Miami Heat
+BOS,2024-05-15,19:00,21:14,0 days 02:14:00,134.0,Cleveland Cavaliers
+BOS,2024-05-27,20:00,22:22,0 days 02:22:00,142.0,Indiana Pacers
+BOS,2024-06-17,20:30,22:51,0 days 02:21:00,141.0,Dallas Mavericks
+BRK,2019-04-23,20:00,22:18,0 days 02:18:00,138.0,Philadelphia 76ers
+BRK,2020-08-23,18:30,20:50,0 days 02:20:00,140.0,Toronto Raptors
+BRK,2021-06-01,19:30,21:52,0 days 02:22:00,142.0,Boston Celtics
+BRK,2021-06-19,20:30,23:24,0 days 02:54:00,174.0,Milwaukee Bucks
+BRK,2022-04-25,19:00,21:30,0 days 02:30:00,150.0,Boston Celtics
+BRK,2023-04-22,13:00,15:19,0 days 02:19:00,139.0,Philadelphia 76ers
+CHI,2022-04-27,19:30,21:47,0 days 02:17:00,137.0,Milwaukee Bucks
+CLE,2018-04-29,13:00,15:42,0 days 02:42:00,162.0,Indiana Pacers
+CLE,2018-05-07,20:30,22:57,0 days 02:27:00,147.0,Toronto Raptors
+CLE,2018-05-27,20:30,22:48,0 days 02:18:00,138.0,Boston Celtics
+CLE,2018-06-08,21:00,23:19,0 days 02:19:00,139.0,Golden State Warriors
+CLE,2023-04-26,19:00,21:25,0 days 02:25:00,145.0,New York Knicks
+CLE,2024-05-05,13:00,15:37,0 days 02:37:00,157.0,Orlando Magic
+CLE,2024-05-15,19:00,21:14,0 days 02:14:00,134.0,Boston Celtics
+DAL,2020-08-30,15:30,17:46,0 days 02:16:00,136.0,Los Angeles Clippers
+DAL,2021-06-06,15:30,17:57,0 days 02:27:00,147.0,Los Angeles Clippers
+DAL,2022-04-28,22:00,00:14,0 days 02:14:00,134.0,Utah Jazz
+DAL,2022-05-15,20:00,22:07,0 days 02:07:00,127.0,Phoenix Suns
+DAL,2022-05-26,21:00,23:17,0 days 02:17:00,137.0,Golden State Warriors
+DAL,2024-05-03,21:30,00:05,0 days 02:35:00,155.0,Los Angeles Clippers
+DAL,2024-05-18,20:00,22:26,0 days 02:26:00,146.0,Oklahoma City Thunder
+DAL,2024-05-30,20:30,22:51,0 days 02:21:00,141.0,Minnesota Timberwolves
+DAL,2024-06-17,20:30,22:51,0 days 02:21:00,141.0,Boston Celtics
+DEN,2019-04-27,22:00,00:27,0 days 02:27:00,147.0,San Antonio Spurs
+DEN,2019-05-12,15:30,18:01,0 days 02:31:00,151.0,Portland Trail Blazers
+DEN,2020-09-01,20:30,22:43,0 days 02:13:00,133.0,Utah Jazz
+DEN,2020-09-15,21:00,23:17,0 days 02:17:00,137.0,Los Angeles Clippers
+DEN,2020-09-26,21:00,23:32,0 days 02:32:00,152.0,Los Angeles Lakers
+DEN,2021-06-03,20:00,22:18,0 days 02:18:00,138.0,Portland Trail Blazers
+DEN,2021-06-13,20:00,22:33,0 days 02:33:00,153.0,Phoenix Suns
+DEN,2022-04-27,22:00,00:26,0 days 02:26:00,146.0,Golden State Warriors
+DEN,2023-04-25,21:00,23:39,0 days 02:39:00,159.0,Minnesota Timberwolves
+DEN,2023-05-11,22:00,00:20,0 days 02:20:00,140.0,Phoenix Suns
+DEN,2023-05-22,20:30,23:02,0 days 02:32:00,152.0,Los Angeles Lakers
+DEN,2023-06-12,20:30,22:52,0 days 02:22:00,142.0,Miami Heat
+DEN,2024-04-29,22:00,00:19,0 days 02:19:00,139.0,Los Angeles Lakers
+DEN,2024-05-19,20:00,22:25,0 days 02:25:00,145.0,Minnesota Timberwolves
+DET,2019-04-22,20:00,22:30,0 days 02:30:00,150.0,Milwaukee Bucks
+GSW,2018-04-24,22:30,00:55,0 days 02:25:00,145.0,San Antonio Spurs
+GSW,2018-05-08,22:30,00:45,0 days 02:15:00,135.0,New Orleans Pelicans
+GSW,2018-05-28,21:00,23:23,0 days 02:23:00,143.0,Houston Rockets
+GSW,2018-06-08,21:00,23:19,0 days 02:19:00,139.0,Cleveland Cavaliers
+GSW,2019-04-26,22:00,00:30,0 days 02:30:00,150.0,Los Angeles Clippers
+GSW,2019-05-10,21:00,23:21,0 days 02:21:00,141.0,Houston Rockets
+GSW,2019-05-20,21:00,23:29,0 days 02:29:00,149.0,Portland Trail Blazers
+GSW,2019-06-13,21:00,23:37,0 days 02:37:00,157.0,Toronto Raptors
+GSW,2022-04-27,22:00,00:26,0 days 02:26:00,146.0,Denver Nuggets
+GSW,2022-05-13,22:00,00:17,0 days 02:17:00,137.0,Memphis Grizzlies
+GSW,2022-05-26,21:00,23:17,0 days 02:17:00,137.0,Dallas Mavericks
+GSW,2022-06-16,21:00,23:20,0 days 02:20:00,140.0,Boston Celtics
+GSW,2023-04-30,15:30,17:59,0 days 02:29:00,149.0,Sacramento Kings
+GSW,2023-05-12,22:00,00:26,0 days 02:26:00,146.0,Los Angeles Lakers
+HOU,2018-04-25,21:30,23:45,0 days 02:15:00,135.0,Minnesota Timberwolves
+HOU,2018-05-08,20:00,22:12,0 days 02:12:00,132.0,Utah Jazz
+HOU,2018-05-28,21:00,23:23,0 days 02:23:00,143.0,Golden State Warriors
+HOU,2019-04-24,20:00,22:14,0 days 02:14:00,134.0,Utah Jazz
+HOU,2019-05-10,21:00,23:21,0 days 02:21:00,141.0,Golden State Warriors
+HOU,2020-09-02,21:00,23:30,0 days 02:30:00,150.0,Oklahoma City Thunder
+HOU,2020-09-12,20:00,22:22,0 days 02:22:00,142.0,Los Angeles Lakers
+IND,2018-04-29,13:00,15:42,0 days 02:42:00,162.0,Cleveland Cavaliers
+IND,2019-04-21,13:00,15:25,0 days 02:25:00,145.0,Boston Celtics
+IND,2020-08-24,18:30,20:51,0 days 02:21:00,141.0,Miami Heat
+IND,2024-05-02,18:30,20:57,0 days 02:27:00,147.0,Milwaukee Bucks
+IND,2024-05-19,15:30,17:53,0 days 02:23:00,143.0,New York Knicks
+IND,2024-05-27,20:00,22:22,0 days 02:22:00,142.0,Boston Celtics
+LAC,2019-04-26,22:00,00:30,0 days 02:30:00,150.0,Golden State Warriors
+LAC,2020-08-30,15:30,17:46,0 days 02:16:00,136.0,Dallas Mavericks
+LAC,2020-09-15,21:00,23:17,0 days 02:17:00,137.0,Denver Nuggets
+LAC,2021-06-06,15:30,17:57,0 days 02:27:00,147.0,Dallas Mavericks
+LAC,2021-06-18,22:00,00:21,0 days 02:21:00,141.0,Utah Jazz
+LAC,2021-06-30,21:00,23:30,0 days 02:30:00,150.0,Phoenix Suns
+LAC,2023-04-25,22:00,00:34,0 days 02:34:00,154.0,Phoenix Suns
+LAC,2024-05-03,21:30,00:05,0 days 02:35:00,155.0,Dallas Mavericks
+LAL,2020-08-29,21:00,23:33,0 days 02:33:00,153.0,Portland Trail Blazers
+LAL,2020-09-12,20:00,22:22,0 days 02:22:00,142.0,Houston Rockets
+LAL,2020-09-26,21:00,23:32,0 days 02:32:00,152.0,Denver Nuggets
+LAL,2020-10-11,19:30,21:51,0 days 02:21:00,141.0,Miami Heat
+LAL,2021-06-03,22:30,00:58,0 days 02:28:00,148.0,Phoenix Suns
+LAL,2023-04-28,22:30,00:44,0 days 02:14:00,134.0,Memphis Grizzlies
+LAL,2023-05-12,22:00,00:26,0 days 02:26:00,146.0,Golden State Warriors
+LAL,2023-05-22,20:30,23:02,0 days 02:32:00,152.0,Denver Nuggets
+LAL,2024-04-29,22:00,00:19,0 days 02:19:00,139.0,Denver Nuggets
+MEM,2021-06-02,21:30,23:39,0 days 02:09:00,129.0,Utah Jazz
+MEM,2022-04-29,21:00,23:32,0 days 02:32:00,152.0,Minnesota Timberwolves
+MEM,2022-05-13,22:00,00:17,0 days 02:17:00,137.0,Golden State Warriors
+MEM,2023-04-28,22:30,00:44,0 days 02:14:00,134.0,Los Angeles Lakers
+MIA,2018-04-24,20:00,22:32,0 days 02:32:00,152.0,Philadelphia 76ers
+MIA,2020-08-24,18:30,20:51,0 days 02:21:00,141.0,Indiana Pacers
+MIA,2020-09-08,18:30,21:02,0 days 02:32:00,152.0,Milwaukee Bucks
+MIA,2020-09-27,19:30,21:49,0 days 02:19:00,139.0,Boston Celtics
+MIA,2020-10-11,19:30,21:51,0 days 02:21:00,141.0,Los Angeles Lakers
+MIA,2021-05-29,13:30,15:48,0 days 02:18:00,138.0,Milwaukee Bucks
+MIA,2022-04-26,19:00,21:45,0 days 02:45:00,165.0,Atlanta Hawks
+MIA,2022-05-12,19:00,21:16,0 days 02:16:00,136.0,Philadelphia 76ers
+MIA,2022-05-29,20:30,23:00,0 days 02:30:00,150.0,Boston Celtics
+MIA,2023-04-26,21:30,00:28,0 days 02:58:00,178.0,Milwaukee Bucks
+MIA,2023-05-12,19:30,22:01,0 days 02:31:00,151.0,New York Knicks
+MIA,2023-05-29,20:30,22:40,0 days 02:10:00,130.0,Boston Celtics
+MIA,2023-06-12,20:30,22:52,0 days 02:22:00,142.0,Denver Nuggets
+MIA,2024-05-01,19:30,21:41,0 days 02:11:00,131.0,Boston Celtics
+MIL,2018-04-28,20:00,22:22,0 days 02:22:00,142.0,Boston Celtics
+MIL,2019-04-22,20:00,22:30,0 days 02:30:00,150.0,Detroit Pistons
+MIL,2019-05-08,20:00,22:24,0 days 02:24:00,144.0,Boston Celtics
+MIL,2019-05-25,20:30,23:09,0 days 02:39:00,159.0,Toronto Raptors
+MIL,2020-08-29,15:30,17:51,0 days 02:21:00,141.0,Orlando Magic
+MIL,2020-09-08,18:30,21:02,0 days 02:32:00,152.0,Miami Heat
+MIL,2021-05-29,13:30,15:48,0 days 02:18:00,138.0,Miami Heat
+MIL,2021-06-19,20:30,23:24,0 days 02:54:00,174.0,Brooklyn Nets
+MIL,2021-07-03,20:30,22:53,0 days 02:23:00,143.0,Atlanta Hawks
+MIL,2021-07-20,21:00,23:31,0 days 02:31:00,151.0,Phoenix Suns
+MIL,2022-04-27,19:30,21:47,0 days 02:17:00,137.0,Chicago Bulls
+MIL,2022-05-15,15:30,17:57,0 days 02:27:00,147.0,Boston Celtics
+MIL,2023-04-26,21:30,00:28,0 days 02:58:00,178.0,Miami Heat
+MIL,2024-05-02,18:30,20:57,0 days 02:27:00,147.0,Indiana Pacers
+MIN,2018-04-25,21:30,23:45,0 days 02:15:00,135.0,Houston Rockets
+MIN,2022-04-29,21:00,23:32,0 days 02:32:00,152.0,Memphis Grizzlies
+MIN,2023-04-25,21:00,23:39,0 days 02:39:00,159.0,Denver Nuggets
+MIN,2024-04-28,21:30,00:18,0 days 02:48:00,168.0,Phoenix Suns
+MIN,2024-05-19,20:00,22:25,0 days 02:25:00,145.0,Denver Nuggets
+MIN,2024-05-30,20:30,22:51,0 days 02:21:00,141.0,Dallas Mavericks
+NOP,2018-04-21,17:00,19:35,0 days 02:35:00,155.0,Portland Trail Blazers
+NOP,2018-05-08,22:30,00:45,0 days 02:15:00,135.0,Golden State Warriors
+NOP,2022-04-28,19:30,21:53,0 days 02:23:00,143.0,Phoenix Suns
+NOP,2024-04-29,20:30,22:54,0 days 02:24:00,144.0,Oklahoma City Thunder
+NYK,2021-06-02,19:30,21:52,0 days 02:22:00,142.0,Atlanta Hawks
+NYK,2023-04-26,19:00,21:25,0 days 02:25:00,145.0,Cleveland Cavaliers
+NYK,2023-05-12,19:30,22:01,0 days 02:31:00,151.0,Miami Heat
+NYK,2024-05-02,21:00,23:37,0 days 02:37:00,157.0,Philadelphia 76ers
+NYK,2024-05-19,15:30,17:53,0 days 02:23:00,143.0,Indiana Pacers
+OKC,2018-04-27,22:30,00:58,0 days 02:28:00,148.0,Utah Jazz
+OKC,2019-04-23,22:30,00:50,0 days 02:20:00,140.0,Portland Trail Blazers
+OKC,2020-09-02,21:00,23:30,0 days 02:30:00,150.0,Houston Rockets
+OKC,2024-04-29,20:30,22:54,0 days 02:24:00,144.0,New Orleans Pelicans
+OKC,2024-05-18,20:00,22:26,0 days 02:26:00,146.0,Dallas Mavericks
+ORL,2019-04-23,19:00,21:18,0 days 02:18:00,138.0,Toronto Raptors
+ORL,2020-08-29,15:30,17:51,0 days 02:21:00,141.0,Milwaukee Bucks
+ORL,2024-05-05,13:00,15:37,0 days 02:37:00,157.0,Cleveland Cavaliers
+PHI,2018-04-24,20:00,22:32,0 days 02:32:00,152.0,Miami Heat
+PHI,2018-05-09,20:00,22:39,0 days 02:39:00,159.0,Boston Celtics
+PHI,2019-04-23,20:00,22:18,0 days 02:18:00,138.0,Brooklyn Nets
+PHI,2019-05-12,19:00,21:30,0 days 02:30:00,150.0,Toronto Raptors
+PHI,2020-08-23,13:00,15:37,0 days 02:37:00,157.0,Boston Celtics
+PHI,2021-06-02,19:00,21:34,0 days 02:34:00,154.0,Washington Wizards
+PHI,2021-06-20,20:00,22:35,0 days 02:35:00,155.0,Atlanta Hawks
+PHI,2022-04-28,19:00,21:27,0 days 02:27:00,147.0,Toronto Raptors
+PHI,2022-05-12,19:00,21:16,0 days 02:16:00,136.0,Miami Heat
+PHI,2023-04-22,13:00,15:19,0 days 02:19:00,139.0,Brooklyn Nets
+PHI,2023-05-14,15:30,17:53,0 days 02:23:00,143.0,Boston Celtics
+PHI,2024-05-02,21:00,23:37,0 days 02:37:00,157.0,New York Knicks
+PHO,2021-06-03,22:30,00:58,0 days 02:28:00,148.0,Los Angeles Lakers
+PHO,2021-06-13,20:00,22:33,0 days 02:33:00,153.0,Denver Nuggets
+PHO,2021-06-30,21:00,23:30,0 days 02:30:00,150.0,Los Angeles Clippers
+PHO,2021-07-20,21:00,23:31,0 days 02:31:00,151.0,Milwaukee Bucks
+PHO,2022-04-28,19:30,21:53,0 days 02:23:00,143.0,New Orleans Pelicans
+PHO,2022-05-15,20:00,22:07,0 days 02:07:00,127.0,Dallas Mavericks
+PHO,2023-04-25,22:00,00:34,0 days 02:34:00,154.0,Los Angeles Clippers
+PHO,2023-05-11,22:00,00:20,0 days 02:20:00,140.0,Denver Nuggets
+PHO,2024-04-28,21:30,00:18,0 days 02:48:00,168.0,Minnesota Timberwolves
+POR,2018-04-21,17:00,19:35,0 days 02:35:00,155.0,New Orleans Pelicans
+POR,2019-04-23,22:30,00:50,0 days 02:20:00,140.0,Oklahoma City Thunder
+POR,2019-05-12,15:30,18:01,0 days 02:31:00,151.0,Denver Nuggets
+POR,2019-05-20,21:00,23:29,0 days 02:29:00,149.0,Golden State Warriors
+POR,2020-08-29,21:00,23:33,0 days 02:33:00,153.0,Los Angeles Lakers
+POR,2021-06-03,20:00,22:18,0 days 02:18:00,138.0,Denver Nuggets
+SAC,2023-04-30,15:30,17:59,0 days 02:29:00,149.0,Golden State Warriors
+SAS,2018-04-24,22:30,00:55,0 days 02:25:00,145.0,Golden State Warriors
+SAS,2019-04-27,22:00,00:27,0 days 02:27:00,147.0,Denver Nuggets
+TOR,2018-04-27,19:00,21:18,0 days 02:18:00,138.0,Washington Wizards
+TOR,2018-05-07,20:30,22:57,0 days 02:27:00,147.0,Cleveland Cavaliers
+TOR,2019-04-23,19:00,21:18,0 days 02:18:00,138.0,Orlando Magic
+TOR,2019-05-12,19:00,21:30,0 days 02:30:00,150.0,Philadelphia 76ers
+TOR,2019-05-25,20:30,23:09,0 days 02:39:00,159.0,Milwaukee Bucks
+TOR,2019-06-13,21:00,23:37,0 days 02:37:00,157.0,Golden State Warriors
+TOR,2020-08-23,18:30,20:50,0 days 02:20:00,140.0,Brooklyn Nets
+TOR,2020-09-11,21:00,23:22,0 days 02:22:00,142.0,Boston Celtics
+TOR,2022-04-28,19:00,21:27,0 days 02:27:00,147.0,Philadelphia 76ers
+UTA,2018-04-27,22:30,00:58,0 days 02:28:00,148.0,Oklahoma City Thunder
+UTA,2018-05-08,20:00,22:12,0 days 02:12:00,132.0,Houston Rockets
+UTA,2019-04-24,20:00,22:14,0 days 02:14:00,134.0,Houston Rockets
+UTA,2020-09-01,20:30,22:43,0 days 02:13:00,133.0,Denver Nuggets
+UTA,2021-06-02,21:30,23:39,0 days 02:09:00,129.0,Memphis Grizzlies
+UTA,2021-06-18,22:00,00:21,0 days 02:21:00,141.0,Los Angeles Clippers
+UTA,2022-04-28,22:00,00:14,0 days 02:14:00,134.0,Dallas Mavericks
+WAS,2018-04-27,19:00,21:18,0 days 02:18:00,138.0,Toronto Raptors
+WAS,2021-06-02,19:00,21:34,0 days 02:34:00,154.0,Philadelphia 76ers

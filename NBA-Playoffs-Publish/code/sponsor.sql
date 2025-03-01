@@ -1,0 +1,77 @@
+USE nba;
+
+DROP TABLE IF EXISTS sponsor;
+CREATE TABLE sponsor (
+    sponsor VARCHAR(255) PRIMARY KEY,
+    stock_symbol VARCHAR(10) DEFAULT NULL,
+    stock_exchange VARCHAR(50) DEFAULT NULL,
+    industry VARCHAR(50),
+    subsidiary INT
+);
+
+-- Insert sponsor data
+INSERT INTO sponsor (sponsor, stock_symbol, stock_exchange, industry, subsidiary) 
+VALUES
+('5miles', NULL, NULL, 'E-commerce', NULL),
+('Amica Mutual Insurance', NULL, NULL, 'Insurance', NULL),
+('Aura', NULL, NULL, 'Technology', NULL),
+('Bibigo', '097950.KS', 'KRX', 'Food & Beverage', 1),
+('Blue Diamond Growers', NULL, NULL, 'Agriculture', NULL),
+('Brightside Windows', NULL, NULL, 'Construction', NULL),
+('Bumble', 'BMBL', 'NASDAQ', 'Technology', 0),
+('Carnival Cruise Line', 'CCL', 'NYSE', 'Travel & Leisure', 0),
+('Chime', NULL, NULL, 'Fintech', NULL),
+('Cleveland-Cliffs Inc. (CLIFFS)', 'CLF', 'NYSE', 'Steel Manufacturing', 0),
+('Credit Karma', 'INTU', 'NASDAQ', 'Financial Services', 0),
+('Crypto.com', NULL, NULL, 'Cryptocurrency', NULL),
+('Dialpad', NULL, NULL, 'Technology', NULL),
+('Experience Abu Dhabi', NULL, NULL, 'Tourism', NULL),
+('Feastables', NULL, NULL, 'Food & Beverage', NULL),
+('FedEx', 'FDX', 'NYSE', 'Logistics', 0),
+('Fitbit', NULL, NULL, 'Technology', NULL),
+('Flagstar Bank', 'FLG', 'NYSE', 'Banking', 0),
+('Frost Bank', 'CFR', 'NYSE', 'Banking', 0),
+('Geico', 'BRK-A', 'NYSE', 'Insurance', 1),
+('General Electric', 'GE', 'NYSE', 'Conglomerate', 0),
+('GetYourGuide', NULL, NULL, 'Travel & Leisure', NULL),
+('Goodyear Tires', 'GT', 'NASDAQ', 'Automotive', 0),
+('Harley-Davidson', 'HOG', 'NYSE', 'Automotive', 0),
+('Honey', 'PYPL', 'NASDAQ', 'E-commerce', 1),
+('Ibotta', 'IBTA', 'NYSE', 'Technology', 0),
+('Infor', NULL, NULL, 'Software', NULL),
+('LendingTree', 'TREE', 'NASDAQ', 'Financial Services', 0),
+('LiveView Technologies (LVT)', NULL, NULL, 'Technology', NULL),
+('Love\'s Travel Stops & Country Stores', NULL, NULL, 'Retail', NULL),
+('Memorial Hermann Health System', NULL, NULL, 'Healthcare', NULL),
+('Motorola', 'MSI', 'NYSE', 'Telecommunications', 0),
+('NewAge Products', NULL, NULL, 'Retail', NULL),
+('PayPal', 'PYPL', 'NASDAQ', 'Fintech', 0),
+('Performance Health (BiOFREEZE)', NULL, NULL, 'Healthcare', NULL),
+('Qualtrics (5 For The Fight)', NULL, NULL, 'Software', NULL),
+('Rakuten', '4755.T', 'TYO', 'E-commerce', 0),
+('Robinhood', 'HOOD', 'NASDAQ', 'Fintech', 0),
+('ROKiT Phones (ROKiT)', NULL, NULL, 'Technology', NULL),
+('Self Financial (Self.)', NULL, NULL, 'Fintech', NULL),
+('Sezzle', 'SEZL', 'NASDAQ', 'Fintech', 0),
+('Sharecare', NULL, NULL, 'Healthcare', NULL),
+('Sphere', NULL, NULL, 'Technology', NULL),
+('Spokenote', NULL, NULL, 'Technology', NULL),
+('Squarespace', NULL, NULL, 'Technology', NULL),
+('StockX', NULL, NULL, 'E-commerce', NULL),
+('StormX', NULL, NULL, 'Cryptocurrency', NULL),
+('StubHub', NULL, NULL, 'E-commerce', NULL),
+('Sun Life', 'SLF', 'TSX', 'Insurance', 0),
+('UKG', NULL, NULL, 'Technology', NULL),
+('Ultimate Software', NULL, NULL, 'Software', NULL),
+('United Wholesale Mortgage', 'UWMC', 'NYSE', 'Real Estate', 0),
+('Vistaprint', 'CMPR', 'NASDAQ', 'E-commerce', 1),
+('Walt Disney World (Disney)', 'DIS', 'NYSE', 'Entertainment', 0),
+('Webull', NULL, NULL, 'Fintech', NULL),
+('Western Union', 'WU', 'NYSE', 'Financial Services', 0),
+('Wish', 'LOGC', 'NASDAQ', 'E-commerce', 1),
+('YMCA', NULL, NULL, 'Non-Profit', NULL),
+('Zatarain\'s', NULL, NULL, 'Food & Beverage', NULL),
+('Zenni Optical (Zenni)', NULL, NULL, 'Retail', NULL);
+
+
+select * from sponsor;
