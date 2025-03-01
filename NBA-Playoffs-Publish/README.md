@@ -29,7 +29,7 @@ In the 2017–18 NBA season, the NBA introduced the opportunity for teams to sel
 
 ## Tools and Techniques Used:
 - **SQL**: Used for writing complex queries, managing multiple tables with `CTE`s, `WINDOW` functions, and `JOINS`.
-- **Python**: Used for data processing and analysis with `Pandas`.
+- **Python**: Used for data processing and analysis with `Pandas` in the **Visual Studio Code** environment.
 - **Power BI**: Used for data visualization.
 
 ## Acknowledgments
