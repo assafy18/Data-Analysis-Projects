@@ -14,7 +14,7 @@ In the 2017–18 NBA season, the NBA introduced the opportunity for teams to sel
 ## Files Included:
 - **nba_sponsor_visual.pdf**: My insights and visualizations.
 - **nba_sponsor_visual.pbix**: The Power BI file used for creating the visualizations.
-- **for_games_dashboard.csv**: The dataset used for generating the visualizations.
+- **for_games_visual.csv**: The dataset used for generating the visualizations.
 - **code**: SQL and Python scripts used to generate the data files.
   - **main_sql.sql**: SQL query used to generate **for_games_dashboard.csv**.
   - **playoff-series-team-code-to-sql.ipynb**: Processes playoff series history and team codes, exporting data to MySQL using `mysql-connector-python` and `SQLAlchemy`.
